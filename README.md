@@ -8,9 +8,11 @@ From data preprocessing in Python to advanced SQL querying, interactive dashboar
 🎯 Objective: Extract actionable insights from transactional and customer data to support data-driven decision-making.
 
 🗂 Dataset
+
 The dataset consists of structured transactional and customer-level data used to analyze trends, patterns, and key performance metrics.
 
 It includes:
+
 👤 Demographic Information – Age, gender, location, etc.
 
 💳 Transaction/Sales Data – Revenue, purchase frequency, product categories
@@ -22,6 +24,7 @@ It includes:
 The data was processed in Python and then stored in a relational database for advanced SQL analysis.
 
 🛠 TOOLS & TECHNOLOGIES
+
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Data loading, cleaning, transformation, and EDA
 
@@ -38,6 +41,7 @@ Professional presentation (PPT) creation
 Development and analysis environment
 
 🔎 PROJECT WORKFLOW
+
 1️⃣ Data Loading
 Imported dataset using Pandas
 Checked structure, data types, and summary statistics
