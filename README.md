@@ -2,10 +2,15 @@
 This project demonstrates a complete end-to-end data analytics workflow, transforming raw structured data into meaningful business insights.
 From data preprocessing in Python to advanced SQL querying, interactive dashboard development in Power BI, and stakeholder-ready presentations — this project reflects real-world analytics practices.
 
+
 <img width="1301" height="732" alt="Screenshot 2026-03-04 202134" src="https://github.com/user-attachments/assets/b7cb1183-d230-4824-a13a-f8eae8417d2e" />
 
 
+
+
 🎯 Objective: Extract actionable insights from transactional and customer data to support data-driven decision-making.
+
+
 
 🗂 Dataset
 
@@ -23,6 +28,9 @@ It includes:
 
 The data was processed in Python and then stored in a relational database for advanced SQL analysis.
 
+
+
+
 🛠 TOOLS & TECHNOLOGIES
 
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -39,6 +47,9 @@ Professional presentation (PPT) creation
 
 📓 Jupyter Notebook
 Development and analysis environment
+
+
+
 
 🔎 PROJECT WORKFLOW
 
