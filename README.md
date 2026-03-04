@@ -1,56 +1,69 @@
-# Customer-Shopping-Behavior-Analysis
-Customer Shopping Behavior Analysis project examining transactions to uncover insights into customer demographics, spending patterns, product performance, and subscription impact. Data was cleaned and processed using Python, analyzed with PostgreSQL, and visualized through an interactive Power BI dashboard to support data-driven business decisions.
+📌 Overview
+This project demonstrates a complete end-to-end data analytics workflow, transforming raw structured data into meaningful business insights.
+From data preprocessing in Python to advanced SQL querying, interactive dashboard development in Power BI, and stakeholder-ready presentations — this project reflects real-world analytics practices.
 
-Overview
-
-This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to delivering business insights through dashboards and presentations. The objective is to extract meaningful insights from structured data using Python and SQL, visualize findings in Power BI, and communicate results through a professional report and presentation.
-
-The project highlights practical skills in data cleaning, exploratory data analysis (EDA), database querying, data visualization, and business storytelling — making it suitable for real-world analytics roles.
+<img width="1301" height="732" alt="Screenshot 2026-03-04 202134" src="https://github.com/user-attachments/assets/b7cb1183-d230-4824-a13a-f8eae8417d2e" />
 
 
-Dataset
+🎯 Objective: Extract actionable insights from transactional and customer data to support data-driven decision-making.
 
-The dataset contains structured transactional/customer data used to analyze patterns, trends, and key performance metrics.
+🗂 Dataset
+The dataset consists of structured transactional and customer-level data used to analyze trends, patterns, and key performance metrics.
+
 It includes:
+👤 Demographic Information – Age, gender, location, etc.
 
-Demographic information
-Transaction or sales data
-Behavioral attributes
-Performance indicators
-The dataset was loaded and processed using Python before being stored in a relational database for advanced querying.
+💳 Transaction/Sales Data – Revenue, purchase frequency, product categories
 
+📈 Behavioral Attributes – Engagement and purchasing behavior metrics
 
-Tools & Technologies
+📊 Performance Indicators – KPIs such as total sales, retention rate, average order value
 
-Python (Pandas, NumPy, Matplotlib/Seaborn) – Data loading, cleaning, and EDA
-SQL (PostgreSQL / MySQL / SQL Server) – Business queries and data analysis
-Power BI – Interactive dashboard creation
-Gamma – Professional presentation (PPT) creation
-Jupyter Notebook – Development environment
+The data was processed in Python and then stored in a relational database for advanced SQL analysis.
 
+🛠 TOOLS & TECHNOLOGIES
+🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data loading, cleaning, transformation, and EDA
 
-Project Steps
+🗄 SQL (PostgreSQL / MySQL / SQL Server)
+Business queries, aggregations, joins, KPI calculations
 
-1.Data Loading
-Imported dataset into Python using Pandas.
-Performed initial structure and summary checks.
+📊 Power BI
+Interactive dashboard creation and visualization
 
-2.Exploratory Data Analysis (EDA)
-Analyzed distributions, trends, and correlations.
-Identified missing values and inconsistencies.
+🎨 Gamma
+Professional presentation (PPT) creation
 
-3.Data Cleaning & Transformation
-Handled missing values.
-Standardized column names and formats.
-Created new features where necessary.
+📓 Jupyter Notebook
+Development and analysis environment
 
-4.Database Integration
-Uploaded cleaned data into SQL database.
-Executed structured queries to answer business questions.
+🔎 PROJECT WORKFLOW
+1️⃣ Data Loading
+Imported dataset using Pandas
+Checked structure, data types, and summary statistics
+Performed initial validation
 
-5.Data Visualization
-Built an interactive Power BI dashboard to present KPIs and trends.
+2️⃣ Exploratory Data Analysis (EDA)
+Analyzed distributions and trends
+Identified correlations
+Detected missing values and inconsistencies
 
-6.Reporting & Presentation
-Compiled findings into a detailed analytical report.
-Created a professional PPT using Gamma for stakeholder presentation.
+3️⃣ Data Cleaning & Transformation
+Handled missing values and duplicates
+Standardized column names and formats
+Created derived features and calculated KPIs
+
+4️⃣ Database Integration
+Uploaded cleaned data into SQL database
+Executed structured queries to answer business questions
+Built reusable views for reporting
+
+5️⃣ Data Visualization
+Designed interactive Power BI dashboard
+Visualized KPIs and performance trends
+Enabled filtering and drill-down analysis
+
+6️⃣ Reporting & Presentation
+Compiled insights into a detailed analytical report
+Created a professional stakeholder presentation using Gamma
+Focused on business storytelling and actionable recommendations
