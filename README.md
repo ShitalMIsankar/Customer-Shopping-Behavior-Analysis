@@ -36,7 +36,7 @@ The data was processed in Python and then stored in a relational database for ad
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Data loading, cleaning, transformation, and EDA
 
-🗄 SQL (PostgreSQL / MySQL / SQL Server)
+🗄 SQL ( MySQL )
 Business queries, aggregations, joins, KPI calculations
 
 📊 Power BI
